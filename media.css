@@ -1,0 +1,375 @@
+
+@media all and (max-width: 479px) {
+.testimonial-col {
+	margin: 10px auto;
+	text-align: center;
+	float: none;
+	width: 80%;
+}
+.testimonial-col.margin {
+	margin-right: auto;
+}
+.margin-top1 {
+	margin-top: 18px;
+}
+.top-search-mobile .res-search-name {
+	width: 215px !important;
+	background: #fff;
+	height: 40px;
+	float: left;
+}
+.right-column {
+	margin-right: 20px;
+}
+.field-block {
+	width: 90%;
+}
+.passwordstrength {
+	width: 296px;
+}
+.passwordstrength .span1, .passwordstrength .span2, .passwordstrength .span3 {
+	width: 90px;
+}
+.passwordstrength2 {
+	width: 76% !important;
+}
+}
+
+@media all and (max-width: 639px) and (min-width: 480px) {
+.testimonial-col {
+	width: 31%;
+	margin-right: 16px;
+}
+.right-column {
+	margin-right: 18px;
+}
+}
+
+@media all and (max-width: 641px) and (min-width: 550px) {
+.testimonial-col {
+	width: 32%;
+	margin-right: 12px;
+}
+}
+
+@media all and (max-width: 640px) and (min-width: 250px) {
+	.rotation-nav-controls .rotation-item{ width:28px;}
+	#rotation li .client-testimonial .div-right img{ width:40px; height:30px;}	
+	#rotation li .client-testimonial .div-left img{ width:40px; height:30px;}	
+.trading-container-in .text-size {
+	padding: 10px;
+}
+.signup-login {
+	max-width: 100%;
+}
+.remodal {
+	margin-top: 80px;
+}
+.thankyou-message {
+	padding: 30px 20px;
+}
+.top-right-block {
+	margin-right: 0px;
+}
+.top-search {
+	margin-top: 1px;
+}
+
+/*#slider{ margin-top:55px;}*/
+
+ 
+.top-header .left-menu {
+	display: none;
+}
+.top-header .right-menu {
+	display: none;
+}
+
+.left-column {
+	width: auto;
+	float: none;
+	margin-right: 0px;
+}
+.left-column .img-responsive {
+	height: auto;
+}
+.left-column .comment-block {
+	float: none;
+	width: auto;
+	min-height: 130px;
+	margin-bottom: 70px;
+}
+.right-column {
+	text-align: center; /*float:none;*/
+	width: auto;
+}
+.heading-text h1 {
+	height: auto;
+	line-height: 100px;
+	font-size: 26px;
+}
+.heading-text .heading {
+	font-size: 26px;
+	line-height: 86px;
+}
+.heading {
+	font-size: 29px;
+	width: auto;
+}
+.testimonial-col .content {
+	width: auto;
+}
+.video {
+	width: auto;
+}
+.footer .link a {
+	margin: 0px 12px;
+	line-height: 31px;
+	font-size: 16px;
+}
+}
+
+@media all and (max-width: 780px) and (min-width: 640px) {
+.top-header .left-menu {
+	display: none;
+}
+.top-header .right-menu {
+	display: none;
+}
+.studio-right-container .inner-container .left-block{ width:auto; margin:0px;}
+.studio-right-container .inner-container .center-block{ width:auto;}
+.studio-right-container .inner-container .right-block{ width:100%; margin-top:10px; float:left;}
+.studio-right-container .inner-container .right-block .scroll-div{ width:auto;}
+.studio-right-container .inner-container .right-block .block1{ width:93%;}
+.studio-right-container .inner-container .right-block .block2{ width:93%;}
+}
+
+@media all and (max-width: 1024px) and (min-width: 641px) {
+	 
+	.studio-right-container .inner-container .right-block .scroll-div{ width:auto;}
+	.studio-right-container .inner-container .right-block .block1 .user-chat{ float:none; width:auto;}
+	.studio-right-container .inner-container .right-block .block2 .user-chat{ float:none; width:auto;}
+		.studio-right-container .inner-container .right-block .block1{ width:78%;}
+	.studio-right-container .inner-container .right-block .block2{ width:78%;}
+.trading-container-in .text-size {
+	padding: 10px;
+}
+.top-header .left-menu ul li {
+	margin-right: 12px;
+}
+.top-header .right-menu ul li {
+	margin-right: 12px;
+}
+}
+@media all and (max-width: 1024px) and (min-width: 769px) {
+	.logo{ width:320px;}
+}
+
+@media all and (max-width: 1280px) and (min-width: 1025px) {
+	.logo{ width:567px;}
+}
+@media all and (max-width: 799px) and (min-width: 768px) {
+.left-column {
+	width: 342px;
+	margin-left: 5px;
+}
+.left-column .img-responsive {
+	height: auto;
+}
+.left-column .comment-block {
+	width: auto;
+	float: none;
+	min-height: 130px;
+}
+ 
+.left-column .comment-block {
+	min-height: 170px;
+}
+.left-column .comment-block1 {
+	min-height: 146px;
+	float: none;
+}
+.right-column .left-col {
+	margin-right: 0px;
+	width: 189px;
+	margin-bottom: 0px;
+}
+.right-column .left-col .img-responsive {
+	height: 165px;
+}
+.right-column .left-col .comment-block {
+	width: 157px;
+}
+.heading {
+	width: auto;
+}
+}
+
+@media all and (max-width: 840px) and (min-width: 800px) {
+.left-column {
+	width: 365px;
+}
+.left-column .img-responsive {
+	height: auto;
+	height: 323px;
+}
+.left-column .comment-block {
+	min-height: 175px;
+	width: auto;
+}
+.left-column .comment-block1 {
+	min-height: 148px;
+	float: none;
+}
+}
+
+@media all and (max-width: 479px) and (min-width: 320px) {
+	.pagination .block{ width:301px;}
+	.pagination .block ul{ width:217px;}
+	.pagination .block ul li{ width:36px;}
+	#back-top span{margin-bottom:30px;}
+	.shortcatge-block{ padding:0 50px; float:none; height:auto;}
+	#product-tiles .product-block .product-img{ vertical-align:middle;}
+.breadcrumb {
+	display: none;
+}
+.home-btn {
+	display: none;
+}
+.short-catg {
+	width: 209px;
+}
+}
+
+@media all and (max-width: 900px) and (min-width: 320px) {
+	
+.top-header {
+	padding: 0px;	
+	height:43px;
+	position: relative;	
+}
+.full-width{ margin-top:20px;}	
+.responsive-categ {
+	display: block;
+	width: 80%;
+	margin:0 auto;
+}
+
+.responsive-categ select{ background:#e5e5e5; height:30px; width:100%; border:1px solid #666; font-weight:bold; margin:0 auto;}
+.responsive-categ select option{ background:#f6f6f6; font-size:12px; height:25px; font-weight:normal; line-height:25px; padding-top:10px; color:#616161;}
+.responsive-categ select option.main-catge{ background:#a1a1a1 !important; color:#fff;}
+.top-catg-list{ padding-top:0px;}
+.home-btn{ margin-top:0px;}
+
+.top-header .left-menu{ display:none;}
+
+.logo{ float:none; display:inline-block; line-height:65px; width:auto;}
+
+.logo img{height:32px; margin-left:45px;}
+.mobilemenu {
+	/*width: 61%;
+	float: left;*/
+	display: block;
+}
+.mobilemenu img {
+	position: relative;
+	bottom: 52px;
+	cursor: pointer;
+	width:30px;
+	left: 5px;
+}
+.menutoggle {
+	display: none;
+	position: absolute;
+	top: 43px;
+	z-index: 100;
+}
+.mobilemenu ul {
+	list-style: none;
+	margin: 0px;
+	padding: 0px;
+}
+.mobilemenu ul li {
+	float: none;
+	background: #000;
+	padding: 15px 10px;
+	width: 250px;
+	border-bottom: 1px solid #fff;
+}
+.mobilemenu ul li:hover {
+	background: #f46100;
+}
+.mobilemenu ul li a {
+	color: #FFF;
+	font-size: 16px;
+	text-decoration: none;
+	outline: none;
+}
+.mobilemenu ul li a div {
+	background: none repeat scroll 0 0 #d1d3d4;
+	border-radius: 20px;
+	color: #fff;
+	display: inline-block;
+	font-weight: bold;
+	height: 20px;
+	line-height: 18px;
+	text-align: center;
+	width: 20px;
+}
+.all-categories {
+	display: none;
+}
+.full-width {
+	background: none;
+}
+.display-item {
+	width: 100%;
+}
+.product-list-block {
+	margin: 0px;
+	width: 100%;	
+}
+.footer {
+	display: none;
+}
+
+.responsive-categ ul {
+	margin: 0px;
+	padding: 0px;
+	list-style-type: none;
+}
+.responsive-categ ul li {
+	font-size: 12px;
+	background: #ccc;
+	padding: 10px 0;
+}
+.responsive-categ ul li a {
+	text-decoration: none;
+	padding: 10px;
+}
+}
+
+@media all and (max-width: 480px) and (min-width: 320px) {
+	#product-tiles .product-block{width: 46%; margin: 1% 2%;}
+	#rotation li .client-testimonial .div-right{ width:auto;}
+	.rotation-nav-controls .rotation-item{ width:28px;}
+	#rotation li .client-testimonial .div-right img{ width:40px; height:30px;}	
+	#rotation li .client-testimonial .div-left img{ width:40px; height:30px;}	 
+	.studio-container{ width:auto; float:none;}
+	.studio-right-container{ float:none; width:auto;}
+	.studio-right-container .inner-container .center-block .custom-block{ width:auto; float:none;}
+	.studio-right-container .inner-container .right-block{ float:none; width:auto;}
+	.studio-right-container .inner-container .left-block{ width:auto; float:none;}
+	.studio-right-container .inner-container .center-block{ float:none; width:auto;}
+	.studio-progress-block .left-div{ float:none; line-height:25px;}
+	.studio-progress-block{ float:none;}
+.studio-right-container .inner-container .right-block{ margin-top:10px;}
+.studio-right-container .inner-container .right-block .scroll-div{ width:auto;}
+.studio-right-container .inner-container .right-block .block2{ width:auto;}
+.studio-right-container .inner-container .right-block .block1{ width:auto;}
+	}
+	
+@media all and (max-width: 900px) and (min-width: 768px) {	
+	.top-search .search-name{ position:absolute; top:-15px !important;}
+	.top-search .search-btn{ padding:0 8px !important;}
+}
